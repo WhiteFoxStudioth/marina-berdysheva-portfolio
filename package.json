@@ -1,0 +1,18 @@
+{
+  "name": "marina-berdysheva-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check:syntax": "node --check public/site.js"
+  },
+  "dependencies": {
+    "astro": "^5.0.0"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
