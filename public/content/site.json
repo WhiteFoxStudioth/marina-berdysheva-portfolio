@@ -1,0 +1,1089 @@
+{
+  "translations": {
+    "RU": {
+      "menu": "МЕНЮ",
+      "portfolio": "ПОРТФОЛИО",
+      "about": "ОБО МНЕ",
+      "contacts": "КОНТАКТЫ",
+      "heroTop": "PRODUCT RETOUCHING · ART DIRECTION",
+      "heroTitle": "Опыт, который виден в деталях.",
+      "heroSub": "ПРЕДМЕТНАЯ РЕТУШЬ ДЛЯ БРЕНДОВ И ПРОИЗВОДИТЕЛЕЙ ПО ВСЕМУ МИРУ",
+      "statsKicker": "ОПЫТ И РЕЗУЛЬТАТЫ",
+      "statsTitle": "Точность, проверенная временем",
+      "statYears": "лет в фотографии и ретуши",
+      "statPhotos": "обработанных фотографий",
+      "statClients": "клиентов и проектов",
+      "comingData": "цифра будет добавлена позже",
+      "portfolioKicker": "ИЗБРАННЫЕ НАПРАВЛЕНИЯ",
+      "portfolioTitle": "Портфолио",
+      "portfolioDesc": "Каждое направление — отдельный мир фактур, форм, света и деталей.",
+      "viewWork": "СМОТРЕТЬ РАБОТЫ",
+      "cat_lighting": "Люстры и светильники",
+      "cat_fashion": "Одежда и аксессуары",
+      "cat_beauty": "Косметика и БАДы",
+      "cat_electronics": "Электроника и техника",
+      "cat_home": "Дом и декор",
+      "cat_industrial": "Инструменты и промышленные изделия",
+      "cat_lighting_desc": "Металл, стекло, свет и отражения",
+      "cat_fashion_desc": "Одежда, обувь, сумки, каталожная ретушь",
+      "cat_beauty_desc": "Бьюти-продукты, упаковка и детали",
+      "cat_electronics_desc": "От небольших гаджетов до бытовой техники",
+      "cat_home_desc": "Мебель, посуда, предметы интерьера",
+      "cat_industrial_desc": "Материалы, детали, конструкция",
+      "aboutKicker": "О МОЁМ ПОДХОДЕ",
+      "aboutHeadline": "Один контакт.<br>Единый стандарт.",
+      "aboutPara": "Вы работаете напрямую со мной — от обсуждения задачи до финального результата. Более 20 лет опыта в фотографии помогают мне понимать не только обработку, но и то, как изображение должно работать для бренда.",
+      "aboutFeature1": "Личная ответственность за каждый проект",
+      "aboutFeature2": "Единый визуальный стандарт для каталога",
+      "aboutFeature3": "Работа с крупными объёмами и масштабирование",
+      "aboutCta": "ОБСУДИТЬ СОТРУДНИЧЕСТВО",
+      "capKicker": "БОЛЬШЕ, ЧЕМ ОДНА ФОТОГРАФИЯ",
+      "capTitle": "Больше возможностей для вашего продукта",
+      "capSub": "Дополнительные форматы для каталогов, рекламы и маркетплейсов.",
+      "service_video": "Предметное видео",
+      "service_video_desc": "Товар в движении",
+      "service_videoGeneration": "Видеогенерация",
+      "service_videoGeneration_desc": "Новые сцены и движение",
+      "service_infographics": "Инфографика и карточки",
+      "service_infographics_desc": "Подача преимуществ товара",
+      "service_photoGeneration": "Фотогенерация",
+      "service_photoGeneration_desc": "Предмет в новых визуальных мирах",
+      "service_layout": "Вёрстка",
+      "service_layout_desc": "Альбомы, кружки, календари и полиграфия",
+      "contactKicker": "НАЧНЁМ ДИАЛОГ",
+      "contactTitle": "Расскажите<br>о своём товаре.",
+      "contactDesc": "Опишите, что продаёте и какая обработка вам нужна. Я помогу определить оптимальный формат сотрудничества.",
+      "contactNote": "Демонстрационная форма: только подготовка и копирование текста. Отправка сообщений пока не подключена.",
+      "formCategory": "Категория товара",
+      "formChoose": "Выберите категорию (по желанию)",
+      "formTask": "Какая обработка вам нужна?",
+      "formTaskPh": "Расскажите о товаре и задаче — необязательно",
+      "formPhone": "Номер телефона",
+      "formWebsite": "Сайт с вашими товарами",
+      "formHint": "* Укажите хотя бы один контакт: email или телефон. Остальное — необязательно.",
+      "formSend": "ПОДГОТОВИТЬ ЗАПРОС",
+      "formCopy": "СКОПИРОВАТЬ ТЕКСТ",
+      "other": "Другое",
+      "trustKicker": "ПОЧЕМУ СО МНОЙ РАБОТАЮТ",
+      "trustTitle": "За что меня ценят",
+      "trustLead": "Не только за красивую картинку. За внимание к задаче, предсказуемый результат и спокойный процесс работы.",
+      "trustOneTitle": "Понимаю изображение целиком",
+      "trustOneText": "20+ лет в фотографии помогают работать не только с пикселями, но и со светом, объёмом, отражениями и характером материала.",
+      "trustTwoTitle": "Всегда на связи лично",
+      "trustTwoText": "Мы обсуждаем задачи напрямую. Я отвечаю за решения, согласования и итоговый результат — без цепочки менеджеров.",
+      "trustThreeTitle": "Держу единый визуальный уровень",
+      "trustThreeText": "Для каталогов важна не одна эффектная фотография, а согласованность десятков и сотен кадров: цвет, фактура, фон и детализация.",
+      "trustFourTitle": "Работаю с разным масштабом",
+      "trustFourText": "От одного сложного рекламного изображения до объёмной товарной серии. Процесс и ресурсы подстраиваются под конкретный проект.",
+      "footerKicker": "ЕСТЬ ЗАДАЧА ПО РЕТУШИ?",
+      "footerTitle": "Давайте сделаем<br>её красивой.",
+      "footerCta": "ОБСУДИТЬ ПРОЕКТ",
+      "footerPersonLabel": "АВТОРСКАЯ РЕТУШЬ",
+      "footerFullName": "Марина Бердышева",
+      "footerRole": "Предметная ретушь для брендов и производителей по всему миру",
+      "footerPhoneLabel": "ТЕЛЕФОНЫ",
+      "footerRuPhone": "РОССИЯ · ЛИЧНЫЙ",
+      "footerThaiPhone": "ТАИЛАНД · НОМЕР УТОЧНЯЕТСЯ",
+      "footerSocialLabel": "СВЯЗАТЬСЯ",
+      "footerSocialHint": "Демонстрационная форма: только подготовка и копирование текста. Отправка сообщений пока не подключена.",
+      "copyrightLine": "© 2026 Марина Бердышева. Все права защищены.",
+      "legalNotice": "Любое использование, копирование или распространение фотографий, текстов, подборок работ и элементов оформления сайта допускается с разрешения правообладателя, кроме случаев, предусмотренных законом. При согласованном использовании обязательна ссылка на источник — этот сайт.",
+      "serviceKicker": "ДОПОЛНИТЕЛЬНЫЕ ВОЗМОЖНОСТИ",
+      "serviceGalleryDesc": "Подборка примеров оформления и форматов. Реальные работы будут добавлены после подготовки портфолио.",
+      "serviceGalleryDisclaimer": "Сейчас здесь демонстрационные материалы — не выполненные заказы. Заменим их настоящими работами, видеороликами и макетами.",
+      "serviceVideoPlaceholder": "Здесь будет видео — добавим после подготовки работ",
+      "serviceDemoLabel": "ДЕМОНСТРАЦИЯ РАСКЛАДКИ",
+      "galleryInquiry": "ОБСУДИТЬ ПРОЕКТ ↗",
+      "galleryServicesBack": "← КО ВСЕМ ВОЗМОЖНОСТЯМ",
+      "galleryKicker": "ПРЕДМЕТНАЯ РЕТУШЬ",
+      "galleryBack": "← КО ВСЕМ КАТЕГОРИЯМ",
+      "galleryDesc": "Примеры расположения фотографий. В финальной версии здесь будут работы из портфолио.",
+      "galleryText": "Детали создают разницу.",
+      "demoNotice": "Демонстрационный прототип · изображения и бренды — примеры, не перечень клиентов",
+      "toTop": "НАВЕРХ ↑",
+      "errorContact": "Пожалуйста, укажите email или номер телефона, чтобы я могла ответить.",
+      "errorEmail": "Проверьте адрес электронной почты.",
+      "errorPhone": "Проверьте номер телефона.",
+      "prepared": "Заявка подготовлена. Отправка с сайта пока не подключена — скопируйте текст и отправьте после подключения контактов.",
+      "copied": "Текст скопирован."
+    },
+    "EN": {
+      "menu": "MENU",
+      "portfolio": "PORTFOLIO",
+      "about": "ABOUT",
+      "contacts": "CONTACT",
+      "heroTop": "PRODUCT RETOUCHING · ART DIRECTION",
+      "heroTitle": "Experience in every detail.",
+      "heroSub": "HIGH-END PRODUCT RETOUCHING FOR BRANDS WORLDWIDE",
+      "statsKicker": "EXPERIENCE & RESULTS",
+      "statsTitle": "Precision built over time",
+      "statYears": "years in photography & retouching",
+      "statPhotos": "retouched photographs",
+      "statClients": "clients and projects",
+      "comingData": "to be confirmed",
+      "portfolioKicker": "SELECTED CATEGORIES",
+      "portfolioTitle": "Portfolio",
+      "portfolioDesc": "Different objects, the same care for textures, lighting and detail.",
+      "viewWork": "VIEW PORTFOLIO ",
+      "cat_lighting": "Lighting & Chandeliers",
+      "cat_fashion": "Fashion & Accessories",
+      "cat_beauty": "Beauty & Wellness",
+      "cat_electronics": "Electronics & Appliances",
+      "cat_home": "Home & Living",
+      "cat_industrial": "Industrial & Tools",
+      "cat_lighting_desc": "Glass, metal, light and reflections",
+      "cat_fashion_desc": "Apparel, shoes, bags and lookbooks",
+      "cat_beauty_desc": "Skincare, packaging and wellness",
+      "cat_electronics_desc": "From small gadgets to appliances",
+      "cat_home_desc": "Furniture, tableware and décor",
+      "cat_industrial_desc": "Materials, construction and detail",
+      "aboutKicker": "HOW I WORK",
+      "aboutHeadline": "One contact.<br>One standard.",
+      "aboutPara": "Work directly with me from the first discussion to final delivery. Over 20 years of photographic experience informs every retouching decision — and how your images perform for your brand.",
+      "aboutFeature1": "Personal accountability for each project",
+      "aboutFeature2": "Consistent visual standards across catalogs",
+      "aboutFeature3": "Capacity for high-volume production",
+      "aboutCta": "DISCUSS A PROJECT ↗",
+      "capKicker": "BEYOND A SINGLE IMAGE",
+      "capTitle": "More ways to present your product",
+      "capSub": "Additional formats for e-commerce, campaigns and catalogs.",
+      "service_video": "Product Video",
+      "service_video_desc": "Bring the product into motion",
+      "service_videoGeneration": "AI Video Generation",
+      "service_videoGeneration_desc": "New scenes and movement",
+      "service_infographics": "Infographics & Product Cards",
+      "service_infographics_desc": "Communicate product benefits",
+      "service_photoGeneration": "AI Image Generation",
+      "service_photoGeneration_desc": "Creative environments for products",
+      "service_layout": "Layout & Print Design",
+      "service_layout_desc": "Albums, mugs, calendars & print",
+      "contactKicker": "GET IN TOUCH",
+      "contactTitle": "Tell me about<br>your product.",
+      "contactDesc": "Describe the products you sell and the editing you need. We can determine the right approach together.",
+      "contactNote": "Demo form: prepare and copy a message only. Message delivery is not connected yet.",
+      "formCategory": "Product category",
+      "formChoose": "Choose a category (optional)",
+      "formTask": "What do you need?",
+      "formTaskPh": "Tell me about your products and task — optional",
+      "formPhone": "Phone number",
+      "formWebsite": "Your product website",
+      "formHint": "* Please include at least an email or phone number. All other fields are optional.",
+      "formSend": "PREPARE REQUEST",
+      "formCopy": "COPY MESSAGE",
+      "other": "Other",
+      "trustKicker": "WHY CLIENTS WORK WITH ME",
+      "trustTitle": "What clients value",
+      "trustLead": "Not just an attractive image, but careful attention to the brief, consistent results and an easy collaboration.",
+      "trustOneTitle": "I see the whole image",
+      "trustOneText": "Over 20 years in photography help me understand light, depth, reflections and materials — not just pixels.",
+      "trustTwoTitle": "Direct personal communication",
+      "trustTwoText": "You work with me directly. I remain responsible for decisions, feedback and final delivery.",
+      "trustThreeTitle": "Consistency across collections",
+      "trustThreeText": "A strong catalogue depends on coherent color, backgrounds, materials and finish — across every image.",
+      "trustFourTitle": "Flexible project capacity",
+      "trustFourText": "From one demanding hero image to a large product series, the workflow adapts to your project.",
+      "footerKicker": "HAVE A RETOUCHING PROJECT?",
+      "footerTitle": "Let’s make it<br>beautiful.",
+      "footerCta": "DISCUSS YOUR PROJECT",
+      "footerPersonLabel": "INDEPENDENT RETOUCHING",
+      "footerFullName": "Marina Berdysheva",
+      "footerRole": "High-end product retouching for brands and manufacturers worldwide",
+      "footerPhoneLabel": "PHONE",
+      "footerRuPhone": "RUSSIA · PERSONAL",
+      "footerThaiPhone": "THAILAND · NUMBER PENDING",
+      "footerSocialLabel": "CONNECT",
+      "footerSocialHint": "Demo form: prepare and copy a message only. Message delivery is not connected yet.",
+      "copyrightLine": "© 2026 Marina Berdysheva. All rights reserved.",
+      "legalNotice": "Use, copying or distribution of photographs, texts, portfolio selections or website design elements requires the copyright holder’s permission, except where permitted by law. Approved use must include a link to this website as the source.",
+      "serviceKicker": "ADDITIONAL CAPABILITIES",
+      "serviceGalleryDesc": "Preview of presentation formats. Actual portfolio pieces will be added as they are prepared.",
+      "serviceGalleryDisclaimer": "These are demonstration images, not completed client projects. They will be replaced with original work, videos and layouts.",
+      "serviceVideoPlaceholder": "Video preview will appear here once your work is ready",
+      "serviceDemoLabel": "LAYOUT PREVIEW",
+      "galleryInquiry": "DISCUSS A PROJECT ↗",
+      "galleryServicesBack": "← ALL CAPABILITIES",
+      "galleryKicker": "PRODUCT RETOUCHING",
+      "galleryBack": "← ALL CATEGORIES",
+      "galleryDesc": "Layout examples. Final galleries will feature actual portfolio work.",
+      "galleryText": "The difference is in the details.",
+      "demoNotice": "Concept preview · images and brand names are illustrative, not a client list",
+      "toTop": "BACK TO TOP ↑",
+      "errorContact": "Please enter an email or phone number so I can reply.",
+      "errorEmail": "Please check the email address.",
+      "errorPhone": "Please check the phone number.",
+      "prepared": "Message prepared. Delivery is not connected yet — copy the request until a contact endpoint is added.",
+      "copied": "Message copied."
+    },
+    "TH": {
+      "menu": "เมนู",
+      "portfolio": "ผลงาน",
+      "about": "เกี่ยวกับฉัน",
+      "contacts": "ติดต่อ",
+      "heroTop": "PRODUCT RETOUCHING · ART DIRECTION",
+      "heroTitle": "ประสบการณ์ที่เห็นได้ในทุกรายละเอียด",
+      "heroSub": "รีทัชภาพสินค้าสำหรับแบรนด์ทั่วโลก",
+      "statsKicker": "ประสบการณ์และผลงาน",
+      "statsTitle": "ความประณีตจากประสบการณ์",
+      "statYears": "ปีในงานถ่ายภาพและรีทัช",
+      "statPhotos": "ภาพที่รีทัช",
+      "statClients": "ลูกค้าและโปรเจกต์",
+      "comingData": "รอยืนยันข้อมูล",
+      "portfolioKicker": "หมวดหมู่ผลงาน",
+      "portfolioTitle": "ผลงาน",
+      "portfolioDesc": "ใส่ใจพื้นผิว แสง รูปทรง และรายละเอียดของสินค้าทุกประเภท",
+      "viewWork": "ชมผลงาน",
+      "cat_lighting": "โคมไฟและแชนเดอเลียร์",
+      "cat_fashion": "แฟชั่นและเครื่องประดับ",
+      "cat_beauty": "ความงามและสุขภาพ",
+      "cat_electronics": "อิเล็กทรอนิกส์และเครื่องใช้ไฟฟ้า",
+      "cat_home": "บ้านและของตกแต่ง",
+      "cat_industrial": "เครื่องมือและอุตสาหกรรม",
+      "cat_lighting_desc": "แก้ว โลหะ แสงและเงาสะท้อน",
+      "cat_fashion_desc": "เสื้อผ้า รองเท้า กระเป๋า",
+      "cat_beauty_desc": "เครื่องสำอางและบรรจุภัณฑ์",
+      "cat_electronics_desc": "อุปกรณ์และเครื่องใช้ไฟฟ้า",
+      "cat_home_desc": "เฟอร์นิเจอร์ ภาชนะ และของตกแต่ง",
+      "cat_industrial_desc": "วัสดุ โครงสร้าง และรายละเอียด",
+      "aboutKicker": "แนวทางการทำงาน",
+      "aboutHeadline": "ติดต่อคนเดียว<br>คุณภาพมาตรฐานเดียว",
+      "aboutPara": "ติดต่อและทำงานกับฉันโดยตรงตั้งแต่เริ่มต้นจนส่งมอบงาน ด้วยประสบการณ์ถ่ายภาพมากกว่า 20 ปี ฉันเข้าใจความสำคัญของภาพต่อแบรนด์ของคุณ",
+      "aboutFeature1": "รับผิดชอบงานแต่ละโปรเจกต์ด้วยตนเอง",
+      "aboutFeature2": "คุณภาพภาพที่สม่ำเสมอทั้งแคตตาล็อก",
+      "aboutFeature3": "รองรับงานจำนวนมาก",
+      "aboutCta": "พูดคุยเกี่ยวกับโปรเจกต์ ↗",
+      "capKicker": "มากกว่าภาพนิ่ง",
+      "capTitle": "มากกว่าภาพสินค้า",
+      "capSub": "รูปแบบเพิ่มเติมสำหรับโฆษณาและอีคอมเมิร์ซ",
+      "service_video": "วิดีโอสินค้า",
+      "service_video_desc": "สินค้าที่เคลื่อนไหว",
+      "service_videoGeneration": "สร้างวิดีโอด้วย AI",
+      "service_videoGeneration_desc": "ฉากและการเคลื่อนไหวใหม่",
+      "service_infographics": "อินโฟกราฟิกและการ์ดสินค้า",
+      "service_infographics_desc": "สื่อสารจุดเด่นของสินค้า",
+      "service_photoGeneration": "สร้างภาพด้วย AI",
+      "service_photoGeneration_desc": "ภาพสินค้าในฉากใหม่",
+      "service_layout": "ออกแบบเลย์เอาต์",
+      "service_layout_desc": "อัลบั้ม แก้ว ปฏิทิน และงานพิมพ์",
+      "contactKicker": "ติดต่อเรา",
+      "contactTitle": "เล่าให้ฟัง<br>เกี่ยวกับสินค้าของคุณ",
+      "contactDesc": "บอกเกี่ยวกับสินค้าและงานรีทัชที่ต้องการ",
+      "contactNote": "แบบฟอร์มสาธิต: เตรียมและคัดลอกข้อความเท่านั้น ยังไม่เชื่อมต่อระบบส่งข้อความ",
+      "formCategory": "หมวดหมู่สินค้า",
+      "formChoose": "เลือกหมวดหมู่ (ไม่บังคับ)",
+      "formTask": "คุณต้องการงานแบบใด?",
+      "formTaskPh": "อธิบายงานที่ต้องการ (ไม่บังคับ)",
+      "formPhone": "หมายเลขโทรศัพท์",
+      "formWebsite": "เว็บไซต์สินค้าของคุณ",
+      "formHint": "* กรุณาระบุอีเมลหรือโทรศัพท์อย่างน้อยหนึ่งรายการ",
+      "formSend": "เตรียมข้อความ",
+      "formCopy": "คัดลอกข้อความ",
+      "other": "อื่น ๆ",
+      "trustKicker": "เหตุผลที่ร่วมงานกับฉัน",
+      "trustTitle": "สิ่งที่ลูกค้าให้ความสำคัญ",
+      "trustLead": "ไม่ใช่แค่ภาพสวย แต่ยังรวมถึงความเข้าใจในงาน คุณภาพที่สม่ำเสมอ และการสื่อสารที่ง่าย",
+      "trustOneTitle": "เข้าใจภาพในทุกมิติ",
+      "trustOneText": "ประสบการณ์ถ่ายภาพกว่า 20 ปีช่วยให้เข้าใจแสง มิติ พื้นผิว และเงาสะท้อน",
+      "trustTwoTitle": "สื่อสารโดยตรงกับฉัน",
+      "trustTwoText": "คุณพูดคุยและติดตามงานกับฉันโดยตรง ฉันรับผิดชอบการตัดสินใจและผลงานสุดท้าย",
+      "trustThreeTitle": "คุณภาพสม่ำเสมอทั้งคอลเลกชัน",
+      "trustThreeText": "ภาพจำนวนมากต้องมีโทนสี พื้นหลัง และรายละเอียดที่สอดคล้องกัน",
+      "trustFourTitle": "ยืดหยุ่นตามขนาดงาน",
+      "trustFourText": "ตั้งแต่ภาพโฆษณาที่ต้องใส่ใจเป็นพิเศษจนถึงงานแคตตาล็อกจำนวนมาก",
+      "footerKicker": "มีโปรเจกต์รีทัชใช่ไหม?",
+      "footerTitle": "มาทำให้ภาพ<br>สวยยิ่งขึ้น",
+      "footerCta": "พูดคุยเกี่ยวกับงาน",
+      "footerPersonLabel": "รีทัชภาพสินค้าโดยผู้เชี่ยวชาญ",
+      "footerFullName": "Marina Berdysheva",
+      "footerRole": "รีทัชภาพสินค้าสำหรับแบรนด์และผู้ผลิตทั่วโลก",
+      "footerPhoneLabel": "โทรศัพท์",
+      "footerRuPhone": "รัสเซีย · ส่วนตัว",
+      "footerThaiPhone": "ไทย · รอเพิ่มหมายเลข",
+      "footerSocialLabel": "ติดต่อ",
+      "footerSocialHint": "แบบฟอร์มสาธิต: เตรียมและคัดลอกข้อความเท่านั้น ยังไม่เชื่อมต่อระบบส่งข้อความ",
+      "copyrightLine": "© 2026 Marina Berdysheva สงวนลิขสิทธิ์",
+      "legalNotice": "การใช้ คัดลอก หรือเผยแพร่ภาพ ข้อความ และองค์ประกอบการออกแบบต้องได้รับอนุญาตจากเจ้าของสิทธิ์ ยกเว้นที่กฎหมายอนุญาต และต้องระบุลิงก์อ้างอิงเว็บไซต์นี้เมื่อได้รับอนุญาต",
+      "serviceKicker": "บริการเพิ่มเติม",
+      "serviceGalleryDesc": "ตัวอย่างรูปแบบการนำเสนอผลงาน จะเพิ่มผลงานจริงในภายหลัง",
+      "serviceGalleryDisclaimer": "ภาพเหล่านี้เป็นเพียงตัวอย่าง ไม่ใช่ผลงานลูกค้า จะเพิ่มวิดีโอและภาพผลงานจริงภายหลัง",
+      "serviceVideoPlaceholder": "เพิ่มตัวอย่างวิดีโอได้ภายหลัง",
+      "serviceDemoLabel": "ตัวอย่างการจัดวาง",
+      "galleryInquiry": "พูดคุยเกี่ยวกับงาน ↗",
+      "galleryServicesBack": "← กลับสู่บริการอื่น ๆ",
+      "galleryKicker": "รีทัชภาพสินค้า",
+      "galleryBack": "← ทุกหมวดหมู่",
+      "galleryDesc": "ตัวอย่างการจัดภาพ จะเปลี่ยนเป็นผลงานจริงภายหลัง",
+      "galleryText": "ความแตกต่างอยู่ในรายละเอียด",
+      "demoNotice": "เว็บไซต์ตัวอย่าง · ภาพและชื่อแบรนด์เป็นตัวอย่าง ไม่ใช่รายชื่อลูกค้า",
+      "toTop": "กลับด้านบน ↑",
+      "errorContact": "กรุณากรอกอีเมลหรือโทรศัพท์เพื่อติดต่อกลับ",
+      "errorEmail": "กรุณาตรวจสอบอีเมล",
+      "errorPhone": "กรุณาตรวจสอบหมายเลขโทรศัพท์",
+      "prepared": "เตรียมข้อความแล้ว ยังไม่ได้เชื่อมต่อระบบส่ง กรุณาคัดลอกข้อความ",
+      "copied": "คัดลอกเรียบร้อย"
+    }
+  },
+  "galleries": {
+    "category/lighting": [
+      {
+        "src": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542728928-1413d1894ed1?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "category/fashion": [
+      {
+        "src": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1551232864-3f0890e580d9?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1547949003-9792a18a2601?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "category/beauty": [
+      {
+        "src": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "category/electronics": [
+      {
+        "src": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "category/home": [
+      {
+        "src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "category/industrial": [
+      {
+        "src": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1565514020179-026b92b84bb6?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "service/video": [
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "service/videoGeneration": [
+      {
+        "src": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "service/infographics": [
+      {
+        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "service/photoGeneration": [
+      {
+        "src": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ],
+    "service/layout": [
+      {
+        "src": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 1",
+          "EN": "Demo image 1",
+          "TH": "ภาพตัวอย่าง 1"
+        },
+        "featured": true,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 2",
+          "EN": "Demo image 2",
+          "TH": "ภาพตัวอย่าง 2"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 3",
+          "EN": "Demo image 3",
+          "TH": "ภาพตัวอย่าง 3"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1100
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 4",
+          "EN": "Demo image 4",
+          "TH": "ภาพตัวอย่าง 4"
+        },
+        "featured": false,
+        "width": 1600,
+        "height": 1000
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1524578271613-d550eacf6090?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 5",
+          "EN": "Demo image 5",
+          "TH": "ภาพตัวอย่าง 5"
+        },
+        "featured": false,
+        "width": 1100,
+        "height": 1500
+      },
+      {
+        "src": "https://images.unsplash.com/photo-1545235617-9465d2a55698?w=1400&q=85",
+        "alt": {
+          "RU": "Демонстрационное изображение 6",
+          "EN": "Demo image 6",
+          "TH": "ภาพตัวอย่าง 6"
+        },
+        "featured": true,
+        "width": 1100,
+        "height": 1100
+      }
+    ]
+  },
+  "covers": {
+    "category/lighting": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=1600&q=82",
+    "category/fashion": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1600&q=82",
+    "category/beauty": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=1600&q=82",
+    "category/electronics": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1600&q=82",
+    "category/home": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1600&q=82",
+    "category/industrial": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=1600&q=82",
+    "service/video": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1000&q=78",
+    "service/videoGeneration": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1000&q=78",
+    "service/infographics": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1000&q=78",
+    "service/photoGeneration": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1300&q=78",
+    "service/layout": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1300&q=78",
+    "hero": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=2000&q=86"
+  }
+}
