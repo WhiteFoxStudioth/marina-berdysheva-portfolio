@@ -1,0 +1,193 @@
+/* ================================================================
+   MARINA BERDYSHEVA — VISUAL THEME V9
+   Inspired by the airy spacing/rounded shapes of Sonos and the
+   restrained terracotta interactions of Worth Agency. Original design.
+   Edit these tokens first when changing the visual direction.
+   ================================================================ */
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@400;450;500;550;600;650;700&family=Noto+Sans+Thai:wght@400;500;600;700&display=swap');
+:root {
+  --ink:#222326;
+  --muted:#66676b;
+  --line:#e5e5e7;
+  --sand:#ffffff;
+  --white:#ffffff;
+  --accent:#C44935;
+  --accent-hover:#A93727;
+  --pink:#FBE2E2;
+  --pink-border:#E9C6C7;
+  --radius-xl:30px;
+  --radius-card:26px;
+  --radius-control:16px;
+  --content-max:1320px;
+}
+html { background:#fff; }
+body,button,input,textarea,select {
+  font-family:'Onest','Noto Sans Thai','Helvetica Neue',Arial,sans-serif;
+}
+body { background:#fff;color:var(--ink);line-height:1.6; }
+:lang(th) body,:lang(th) button,:lang(th) input,:lang(th) select,:lang(th) textarea { font-family:'Noto Sans Thai','Onest',sans-serif; }
+:focus-visible { outline:2px solid var(--accent);outline-offset:4px; }
+a,button { -webkit-tap-highlight-color:transparent; }
+a,button, .nav-link { transition:color .25s ease,background-color .25s ease,border-color .25s ease,transform .28s cubic-bezier(.2,.7,.2,1); }
+a:not(.category-card):not(.cap-card):not(.social-icon):not(.gallery-item):hover,
+button:not(.send-button):not(.copy-button):hover { color:var(--accent); }
+/* Header and navigation */
+.site-header.is-solid,.site-header.in-gallery { background:rgba(255,255,255,.96);color:var(--ink);box-shadow:0 1px 0 rgba(0,0,0,.065); }
+.logo { letter-spacing:.115em;font-size:13px; }
+.nav-link:hover,.lang-switch:hover { opacity:1; }
+.nav-dropdown__button:after { transition:transform .2s ease; }
+.nav-dropdown.is-open .nav-dropdown__button:after { transform:rotate(180deg); }
+.nav-menu { background:#fff;border:1px solid var(--line);border-radius:20px;overflow:hidden;padding:12px;box-shadow:0 24px 60px #00000016; }
+.nav-menu a { border-radius:10px;padding:11px 13px; }
+.nav-menu a:hover,.nav-menu a:focus { background:#fff0ee;color:var(--accent); }
+.menu-toggle { border-radius:999px; }
+/* Typography: one consistent grotesk for RU and EN. Keep the hero ticker's requested editorial serif. */
+.hero__title,.section-heading h2,.stats__title,.stat__number,.category-card__title,.about h2,.cap-card__title,.contact h2,
+.gallery-head h1,.gallery-item.text-tile span,.gallery-service-intro strong,.gallery-video-placeholder span,
+.trust h2,.trust__item h3 { font-family:'Onest','Noto Sans Thai',sans-serif;letter-spacing:-.055em; }
+.hero__title { font-weight:500;letter-spacing:-.052em; }
+.marquee__set { font-family:'Playfair Display',Georgia,serif; }
+.overline,.category-card__cta,.site-footer__label { letter-spacing:.14em; }
+/* Use white and soft-neutral sections. Never reintroduce cream/beige page fills. */
+.stats,.portfolio,.capabilities,.trust,.gallery-view { background:#fff; }
+.stats { border-bottom:1px solid var(--line);padding-block:clamp(74px,8vw,112px); }
+.stats__title { font-weight:500; }
+.stat { border-color:var(--line); }
+.stat__label { color:var(--muted); }
+.stat__hint { color:#85868a; }
+.portfolio { padding-block:clamp(90px,9vw,142px); }
+.section-heading h2 { font-weight:550; }
+.section-heading p { color:var(--muted); }
+/* Maintain exactly the category ordering, dimensions and links from v8. */
+.category-list { gap:20px; }
+.category-card { border-radius:var(--radius-xl);box-shadow:0 8px 26px #1212120b; }
+.category-card__content { inset:auto 33px 32px 36px; }
+.category-card__title { font-weight:550; }
+.category-card__cta { padding:13px 20px;border:1px solid #ffffffb2;border-radius:999px;text-decoration:none;white-space:nowrap;line-height:1.25;letter-spacing:.075em;background:#ffffff14;backdrop-filter:blur(8px); }
+.category-card:is(:hover,:focus-visible) .category-card__cta { background:#fff;color:var(--accent);border-color:#fff;transform:translateY(-3px); }
+.category-card:is(:hover,:focus-visible) .category-card__image { transform:scale(1.055); }
+/* About retains a purposeful charcoal contrast, not a beige panel. */
+.about { background:#24262A;color:#fff; }
+.about .overline,.about__feature small { color:#cacbcf; }
+.about h2 { font-weight:500; }
+.about__right>p { color:#d9dadd; }
+.about__rule { background:var(--accent);height:4px;width:58px;border-radius:4px; }
+.about__feature { grid-template-columns:1fr;border-color:#595b61;padding:22px 0; }
+.about__foot { color:#fff;border:1px solid #ffffff73;border-radius:999px;padding:14px 22px;margin-top:30px; }
+.about__foot:hover { background:#fff;color:var(--accent)!important;border-color:#fff;transform:translateY(-2px); }
+/* The trust cards all share identical rhythm and sizing. */
+.trust { background:#fff;padding-block:clamp(90px,9vw,145px); }
+.trust__intro { align-items:end;gap:clamp(36px,6vw,100px);margin-bottom:46px; }
+.trust .overline { color:var(--accent); }
+.trust h2 { font-weight:550;letter-spacing:-.06em; }
+.trust__lead { color:var(--muted); }
+.trust__grid { display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;align-items:stretch; }
+.trust__item { border:1px solid var(--line);background:#fff;border-radius:var(--radius-card);padding:clamp(27px,3.3vw,52px);display:flex;flex-direction:column;justify-content:flex-start;min-width:0;min-height:275px;transition:border-color .22s ease,box-shadow .22s ease,transform .22s ease; }
+.trust__item::before { content:'';width:35px;height:4px;background:var(--accent);border-radius:3px;display:block;margin-bottom:34px; }
+.trust__item h3 { font-size:clamp(23px,2vw,32px);line-height:1.2;font-weight:550;margin:0 0 20px;max-width:none;min-height:2.4em; }
+.trust__item p { margin:0;color:var(--muted);font-size:14px;line-height:1.7;max-width:540px; }
+.trust__item:hover { border-color:#e8ada4;box-shadow:0 18px 34px #1313130a;transform:translateY(-2px); }
+/* Capabilities keep their existing masonry arrangement. */
+.capabilities { background:#fff;border-top:1px solid var(--line); }
+.cap-grid { gap:18px; }
+.cap-card { border-radius:var(--radius-card); }
+.cap-card__title { font-weight:550;line-height:1.16; }
+.cap-card__content { left:clamp(22px,2vw,34px);right:clamp(22px,2vw,34px);bottom:clamp(22px,2vw,34px); }
+.cap-card:is(:hover,:focus-visible) .cap-card__image { transform:scale(1.06); }
+/* Warm blush ONLY for contact. Five optional form fields, with contact method required. */
+.contact { background:var(--pink);padding-block:clamp(90px,8vw,145px); }
+.contact__shell { gap:clamp(44px,7vw,110px); }
+.contact h2 { font-weight:550; }
+.contact__intro,.contact__note { color:#5c4e50; }
+.contact .overline { color:var(--accent); }
+.contact-form { column-gap:16px;row-gap:19px; }
+.form-field { gap:8px; }
+.form-field label { font-size:11px;letter-spacing:.075em;text-transform:none;font-weight:650; }
+.form-field input,.form-field select,.form-field textarea { background:#ffffffd9;border:1px solid var(--pink-border);border-radius:var(--radius-control);padding:15px 17px;min-height:54px;transition:border-color .2s,background .2s,box-shadow .2s; }
+.form-field textarea { min-height:124px; }
+.form-field :is(input,select,textarea):focus { border-color:var(--accent);background:#fff;box-shadow:0 0 0 3px #c449351b; }
+.form-hint { color:#655459; }
+.send-button,.copy-button { border-radius:999px;font-weight:600;letter-spacing:.05em;transition:transform .2s ease,background .2s ease,border-color .2s ease,color .2s ease; }
+.send-button { background:var(--ink);border:1px solid var(--ink);color:#fff;padding:18px 29px; }
+.send-button:hover { background:var(--accent);border-color:var(--accent);color:#fff;transform:translateY(-3px);box-shadow:0 9px 25px #c449352b; }
+.copy-button { background:#fff;border:1px solid var(--pink-border);padding:14px 22px; }
+.copy-button:hover { color:var(--accent);border-color:var(--accent);transform:translateY(-2px); }
+/* Gallery: images still span nearly the full monitor width, rounded consistently. */
+.gallery-item { border-radius:19px; }
+.gallery-item.text-tile { background:#24262a;color:#fff; }
+.gallery-item:not(.text-tile):after { content:none; }
+.gallery-head__tags span { border-radius:999px;background:#fff;border-color:var(--line); }
+.gallery-endnote { background:#f5f5f5;border-radius:22px;color:var(--ink); }
+.gallery-service-intro { border-radius:22px;background:#24262A!important;color:#fff; }
+.gallery-video-placeholder,.gallery-video-slot { border-radius:22px; }
+.lightbox__close { border-radius:50%;height:45px;width:45px;padding:0; }
+/* Footer stays dark and legible, with restrained accents. */
+.site-footer { background:#222326;color:#fff; }
+.site-footer__identity strong { font-family:'Onest','Noto Sans Thai',sans-serif; }
+.site-footer__label { color:#c0c0c0; }
+.site-footer__identity p,.site-footer__legal p { color:#bfc0c3; }
+.site-footer__meta { color:#b6b6b8; }
+.site-footer__phone[href]:hover,.site-footer__bottom a:hover { color:var(--accent); }
+.social-icon { border-radius:17px;border-color:#6d6f73;color:#fff; }
+.social-icon[href]:hover { background:var(--accent);border-color:var(--accent);color:#fff;transform:translateY(-3px); }
+.site-footer__social-hint { color:#aaa; }
+.site-footer__legal small:first-child { color:#f3f3f3; }
+.site-footer__bottom { border-color:#505157;color:#b4b4b4; }
+/* Tablet and mobile */
+@media (max-width:1090px) {
+  .trust__item { min-height:260px; }
+}
+@media (max-width:760px) {
+  .main-nav { background:#fff;color:var(--ink); }
+  .nav-menu { border-radius:15px; }
+  .category-card { border-radius:22px; }
+  .category-card__content { inset:auto 20px 20px 22px; }
+  .category-card__cta { font-size:10px;padding:10px 15px; }
+  .cap-card { border-radius:20px; }
+  .trust__intro { grid-template-columns:1fr;gap:20px; }
+  .trust__grid { grid-template-columns:repeat(2,minmax(0,1fr));gap:14px; }
+  .trust__item { padding:24px 20px;min-height:270px; }
+  .trust__item h3 { font-size:22px;min-height:0; }
+  .trust__item p { font-size:13px; }
+  .contact-form { gap:16px; }
+}
+@media (max-width:570px) {
+  .trust__grid { grid-template-columns:1fr; }
+  .trust__item { min-height:0;padding:25px; }
+  .trust__item::before { margin-bottom:20px; }
+  .trust__item h3 { margin-bottom:12px; }
+  .contact { padding-inline:20px; }
+  .contact-form { grid-template-columns:1fr; }
+  .form-field.full { grid-column:1; }
+  .category-card__cta { font-size:10px; }
+  .hero__title { font-size:clamp(17px,4vw,30px); }
+}
+@media (prefers-reduced-motion:reduce) {
+  .trust__item:hover,.send-button:hover,.copy-button:hover,.social-icon:hover { transform:none; }
+}
+/* Neutral placeholders while demo photographs are offline: no beige tint. */
+.hero { background-color:#282A2F; }
+.category-card:nth-child(1) { background:linear-gradient(120deg,#20242A,#747B83 60%,#282D32); }
+.category-card:nth-child(2) { background:linear-gradient(120deg,#252A33,#858D96 60%,#26272E); }
+.category-card:nth-child(3) { background:linear-gradient(120deg,#3C4147,#A0A3AA 60%,#32373E); }
+.category-card:nth-child(4) { background:linear-gradient(120deg,#202A31,#78828D 60%,#303740); }
+.category-card:nth-child(5) { background:linear-gradient(120deg,#3A3D43,#9A9EA4 60%,#3D4248); }
+.category-card:nth-child(6) { background:linear-gradient(120deg,#262E34,#878D91 60%,#343A40); }
+.cap-card:nth-child(1) { background:linear-gradient(120deg,#293039,#626A74); }
+.cap-card:nth-child(2) { background:linear-gradient(120deg,#252A38,#778094); }
+.cap-card:nth-child(3) { background:linear-gradient(120deg,#3B424A,#838C96); }
+.cap-card:nth-child(4) { background:linear-gradient(120deg,#2E3944,#828E9A); }
+.cap-card:nth-child(5) { background:linear-gradient(120deg,#353A42,#8D949B); }
+.gallery-item:not(.text-tile):not(.gallery-video-placeholder):not(.gallery-service-intro) { background:#ebedf0; }
+
+/* v10 semi-automatic photo grid */
+.gallery-grid{grid-template-columns:repeat(3,minmax(0,1fr));grid-auto-rows:10px;grid-auto-flow:dense;align-items:start}
+.gallery-grid>.fluid-item{aspect-ratio:auto!important;grid-column:span 1;display:block;border-radius:18px;min-height:95px;align-self:start}
+.gallery-grid>.fluid-item img{width:100%;height:100%;object-fit:contain;position:static;background:#f2f3f4}
+.gallery-grid>.fluid-item.featured{grid-column:span 2}
+.gallery-grid>.text-tile,.gallery-grid>.gallery-video-slot,.gallery-grid>.gallery-video-placeholder,.gallery-grid>.gallery-service-intro{grid-column:span 3;grid-row:span 24;min-height:250px;aspect-ratio:auto}
+@media(max-width:1023px){.gallery-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.gallery-grid>.text-tile,.gallery-grid>.gallery-video-slot,.gallery-grid>.gallery-video-placeholder,.gallery-grid>.gallery-service-intro{grid-column:span 2}}
+@media(max-width:599px){.gallery-grid{grid-template-columns:minmax(0,1fr)}.gallery-grid>.fluid-item.featured,.gallery-grid>.text-tile,.gallery-grid>.gallery-video-slot,.gallery-grid>.gallery-video-placeholder,.gallery-grid>.gallery-service-intro{grid-column:span 1}}
+
+.publication-note{padding:16px 24px;margin:0;text-align:center;background:#fff2ef;font-size:14px;line-height:1.5}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
