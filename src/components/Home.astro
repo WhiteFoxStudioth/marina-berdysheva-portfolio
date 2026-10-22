@@ -1,0 +1,88 @@
+---
+import Trust from './Trust.astro';
+import Footer from './Footer.astro';
+---
+<a class="skip" href="#portfolio">К портфолио</a>
+<header class="site-header" id="site-header">
+  <a class="logo" href="#top" aria-label="На главную">MARINA BERDYSHEVA</a>
+  <button class="menu-toggle" id="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav" data-i18n="menu">МЕНЮ</button>
+  <nav class="main-nav" id="main-nav" aria-label="Основная навигация">
+    <div class="nav-dropdown" id="nav-dropdown">
+      <button class="nav-link nav-dropdown__button" id="portfolio-trigger" type="button" aria-expanded="false" data-i18n="portfolio">ПОРТФОЛИО</button>
+      <div class="nav-menu" id="portfolio-dropdown">
+        <a href="#category/lighting" data-i18n="cat_lighting">Люстры и светильники</a>
+        <a href="#category/fashion" data-i18n="cat_fashion">Одежда и аксессуары</a>
+        <a href="#category/beauty" data-i18n="cat_beauty">Косметика и БАДы</a>
+        <a href="#category/electronics" data-i18n="cat_electronics">Электроника и техника</a>
+        <a href="#category/home" data-i18n="cat_home">Дом и декор</a>
+        <a href="#category/industrial" data-i18n="cat_industrial">Инструменты и промышленные изделия</a>
+      </div>
+    </div>
+    <a href="#about" class="nav-link" data-i18n="about">ОБО МНЕ</a>
+    <a href="#contact" class="nav-link" data-i18n="contacts">КОНТАКТЫ</a>
+    <div class="langs" aria-label="Выбор языка">
+      <button type="button" class="lang-switch" data-lang="EN">EN</button><button type="button" class="lang-switch active" data-lang="RU">RU</button><button type="button" class="lang-switch" data-lang="TH">TH</button>
+    </div>
+  </nav>
+</header>
+<main id="home-view">
+  <section class="hero" id="top" aria-label="Главная">
+    <div class="hero__inner">
+      <div class="overline" data-i18n="heroTop">PRODUCT RETOUCHING · ART DIRECTION</div>
+      <h1 class="hero__title" data-i18n="heroTitle">Опыт, который виден в деталях.</h1>
+      <p class="hero__subtitle" data-i18n="heroSub">ПРЕДМЕТНАЯ РЕТУШЬ ДЛЯ БРЕНДОВ И ПРОИЗВОДИТЕЛЕЙ ПО ВСЕМУ МИРУ</p>
+    </div>
+    <div class="marquee" aria-hidden="true"><div class="marquee__track"><div class="marquee__set"><span>ATELIER NO.8</span><span>NOVA OBJECTS</span><span>FORMA</span><span>VOLUME STUDIO</span><span>MONO</span><span>VELORA</span></div><div class="marquee__set"><span>ATELIER NO.8</span><span>NOVA OBJECTS</span><span>FORMA</span><span>VOLUME STUDIO</span><span>MONO</span><span>VELORA</span></div></div></div>
+    <a class="hero__arrow" href="#stats" aria-label="Прокрутить вниз">↓</a>
+  </section>
+  <p class="publication-note" data-i18n="demoNotice">Демонстрационный прототип · изображения и бренды — примеры, не перечень клиентов</p>
+  <section class="stats" id="stats">
+    <p class="overline" data-i18n="statsKicker">ОПЫТ И РЕЗУЛЬТАТЫ</p>
+    <h2 class="stats__title" data-i18n="statsTitle">Точность, проверенная временем</h2>
+    <div class="stats__grid">
+      <div class="stat"><span class="stat__number">20+</span><span class="stat__label" data-i18n="statYears">лет в фотографии и ретуши</span></div>
+      <div class="stat"><span class="stat__number">—</span><span class="stat__label" data-i18n="statPhotos">обработанных фотографий</span><span class="stat__hint" data-i18n="comingData">цифра будет добавлена позже</span></div>
+      <div class="stat"><span class="stat__number">—</span><span class="stat__label" data-i18n="statClients">клиентов и проектов</span><span class="stat__hint" data-i18n="comingData">цифра будет добавлена позже</span></div>
+    </div>
+  </section>
+  <section class="portfolio" id="portfolio">
+    <div class="section-heading"><p class="overline" data-i18n="portfolioKicker">ИЗБРАННЫЕ НАПРАВЛЕНИЯ</p><h2 data-i18n="portfolioTitle">Портфолио</h2><p data-i18n="portfolioDesc">Каждое направление — отдельный мир фактур, форм, света и деталей.</p></div>
+    <div class="category-list">
+      <a class="category-card" href="#category/lighting" data-category="lighting"><img class="category-card__image" src="https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=1600&q=82" alt="Дизайнерский светильник" loading="lazy"><div class="category-card__content"><div><span class="category-card__title" data-i18n="cat_lighting">Люстры и светильники</span><span class="category-card__sub" data-i18n="cat_lighting_desc">Металл, стекло, свет и отражения</span></div><span class="category-card__cta" data-i18n="viewWork">СМОТРЕТЬ РАБОТЫ</span></div></a>
+      <a class="category-card" href="#category/fashion" data-category="fashion"><img class="category-card__image" src="https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1600&q=82" alt="Одежда и аксессуары" loading="lazy"><div class="category-card__content"><div><span class="category-card__title" data-i18n="cat_fashion">Одежда и аксессуары</span><span class="category-card__sub" data-i18n="cat_fashion_desc">Одежда, обувь, сумки, каталожная ретушь</span></div><span class="category-card__cta" data-i18n="viewWork">СМОТРЕТЬ РАБОТЫ</span></div></a>
+      <a class="category-card" href="#category/beauty" data-category="beauty"><img class="category-card__image" src="https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=1600&q=82" alt="Косметика" loading="lazy"><div class="category-card__content"><div><span class="category-card__title" data-i18n="cat_beauty">Косметика и БАДы</span><span class="category-card__sub" data-i18n="cat_beauty_desc">Бьюти-продукты, упаковка и детали</span></div><span class="category-card__cta" data-i18n="viewWork">СМОТРЕТЬ РАБОТЫ</span></div></a>
+      <a class="category-card" href="#category/electronics" data-category="electronics"><img class="category-card__image" src="https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1600&q=82" alt="Электроника" loading="lazy"><div class="category-card__content"><div><span class="category-card__title" data-i18n="cat_electronics">Электроника и техника</span><span class="category-card__sub" data-i18n="cat_electronics_desc">От небольших гаджетов до бытовой техники</span></div><span class="category-card__cta" data-i18n="viewWork">СМОТРЕТЬ РАБОТЫ</span></div></a>
+      <a class="category-card" href="#category/home" data-category="home"><img class="category-card__image" src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1600&q=82" alt="Предметы интерьера" loading="lazy"><div class="category-card__content"><div><span class="category-card__title" data-i18n="cat_home">Дом и декор</span><span class="category-card__sub" data-i18n="cat_home_desc">Мебель, посуда, предметы интерьера</span></div><span class="category-card__cta" data-i18n="viewWork">СМОТРЕТЬ РАБОТЫ</span></div></a>
+      <a class="category-card" href="#category/industrial" data-category="industrial"><img class="category-card__image" src="https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=1600&q=82" alt="Промышленные изделия" loading="lazy"><div class="category-card__content"><div><span class="category-card__title" data-i18n="cat_industrial">Инструменты и промышленные изделия</span><span class="category-card__sub" data-i18n="cat_industrial_desc">Материалы, детали, конструкция</span></div><span class="category-card__cta" data-i18n="viewWork">СМОТРЕТЬ РАБОТЫ</span></div></a>
+    </div>
+  </section>
+  <section class="about" id="about"><div class="about__shell">
+    <div class="about__left"><p class="overline" data-i18n="aboutKicker">О МОЁМ ПОДХОДЕ</p><h2 data-i18n="aboutHeadline">Один контакт.<br>Единый стандарт.</h2><span class="about__rule"></span></div>
+    <div class="about__right"><p data-i18n="aboutPara">Вы работаете напрямую со мной — от обсуждения задачи до финального результата. Более 20 лет опыта в фотографии помогают мне понимать не только обработку, но и то, как изображение должно работать для бренда.</p><div class="about__features"><div class="about__feature"><b data-i18n="aboutFeature1">Личная ответственность за каждый проект</b></div><div class="about__feature"><b data-i18n="aboutFeature2">Единый визуальный стандарт для каталога</b></div><div class="about__feature"><b data-i18n="aboutFeature3">Работа с крупными объёмами и масштабирование</b></div></div><a class="about__foot" href="#contact" data-i18n="aboutCta">ОБСУДИТЬ СОТРУДНИЧЕСТВО</a></div>
+  </div></section>
+  <Trust />
+  <section class="capabilities" id="capabilities"><div class="section-heading"><p class="overline" data-i18n="capKicker">БОЛЬШЕ, ЧЕМ ОДНА ФОТОГРАФИЯ</p><h2 data-i18n="capTitle">Больше возможностей для вашего продукта</h2><p data-i18n="capSub">Дополнительные форматы для каталогов, рекламы и маркетплейсов.</p></div>
+  <div class="cap-grid">
+    <a class="cap-card" href="#service/video" data-service="video"><img class="cap-card__image" src="https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1000&q=78" alt="Видео" loading="lazy"><div class="cap-card__content"><h3 class="cap-card__title" data-i18n="service_video">Предметное видео</h3><span class="cap-card__sub" data-i18n="service_video_desc">Товар в движении</span></div></a>
+    <a class="cap-card" href="#service/videoGeneration" data-service="videoGeneration"><img class="cap-card__image" src="https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1000&q=78" alt="Видеогенерация" loading="lazy"><div class="cap-card__content"><h3 class="cap-card__title" data-i18n="service_videoGeneration">Видеогенерация</h3><span class="cap-card__sub" data-i18n="service_videoGeneration_desc">Новые сцены и движение</span></div></a>
+    <a class="cap-card" href="#service/infographics" data-service="infographics"><img class="cap-card__image" src="https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1000&q=78" alt="Карточка товара" loading="lazy"><div class="cap-card__content"><h3 class="cap-card__title" data-i18n="service_infographics">Инфографика и карточки</h3><span class="cap-card__sub" data-i18n="service_infographics_desc">Подача преимуществ товара</span></div></a>
+    <a class="cap-card" href="#service/photoGeneration" data-service="photoGeneration"><img class="cap-card__image" src="https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1300&q=78" alt="Сгенерированные сцены" loading="lazy"><div class="cap-card__content"><h3 class="cap-card__title" data-i18n="service_photoGeneration">Фотогенерация</h3><span class="cap-card__sub" data-i18n="service_photoGeneration_desc">Предмет в новых визуальных мирах</span></div></a>
+    <a class="cap-card" href="#service/layout" data-service="layout"><img class="cap-card__image" src="https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1300&q=78" alt="Альбомы и полиграфия" loading="lazy"><div class="cap-card__content"><h3 class="cap-card__title" data-i18n="service_layout">Вёрстка</h3><span class="cap-card__sub" data-i18n="service_layout_desc">Альбомы, кружки, календари и полиграфия</span></div></a>
+  </div></section>
+  <section class="contact" id="contact"><div class="contact__shell">
+    <div><p class="overline" data-i18n="contactKicker">НАЧНЁМ ДИАЛОГ</p><h2 data-i18n="contactTitle">Расскажите<br>о своём товаре.</h2><p class="contact__intro" data-i18n="contactDesc">Опишите, что продаёте и какая обработка вам нужна. Я помогу определить оптимальный формат сотрудничества.</p><p class="contact__note" data-i18n="contactNote">Демонстрационная форма: только подготовка и копирование текста. Отправка сообщений пока не подключена.</p></div>
+    <form class="contact-form" id="inquiry-form" novalidate>
+      <div class="form-field full"><label for="field-category" data-i18n="formCategory">Категория товара</label><select id="field-category" name="category"><option value="" data-i18n="formChoose">Выберите категорию (по желанию)</option><option value="lighting" data-i18n="cat_lighting">Люстры и светильники</option><option value="fashion" data-i18n="cat_fashion">Одежда и аксессуары</option><option value="beauty" data-i18n="cat_beauty">Косметика и БАДы</option><option value="electronics" data-i18n="cat_electronics">Электроника и техника</option><option value="home" data-i18n="cat_home">Дом и декор</option><option value="industrial" data-i18n="cat_industrial">Инструменты и промышленные изделия</option><option value="other" data-i18n="other">Другое</option></select></div>
+      <div class="form-field full"><label for="field-task" data-i18n="formTask">Какая обработка вам нужна?</label><textarea id="field-task" name="task" rows="3" data-placeholder-i18n="formTaskPh" placeholder="Расскажите о товаре и задаче — необязательно"></textarea></div>
+      <div class="form-field"><label for="field-email">Email</label><input id="field-email" type="email" name="email" autocomplete="email" placeholder="name@company.com"></div>
+      <div class="form-field"><label for="field-phone" data-i18n="formPhone">Номер телефона</label><input id="field-phone" type="tel" name="phone" autocomplete="tel" placeholder="+66 ..."></div>
+      <div class="form-field full"><label for="field-site" data-i18n="formWebsite">Сайт с вашими товарами</label><input id="field-site" type="text" name="website" autocomplete="url" placeholder="https://..."></div>
+      <p class="form-hint" data-i18n="formHint">* Укажите хотя бы один контакт: email или телефон. Остальное — необязательно.</p>
+      <p class="form-error" id="form-error" role="alert"></p><p class="form-success" id="form-success" role="status"></p>
+      <button class="send-button" type="submit" data-i18n="formSend">ПОДГОТОВИТЬ ЗАПРОС</button><button class="copy-button" type="button" id="copy-request" data-i18n="formCopy">СКОПИРОВАТЬ ТЕКСТ</button>
+    </form>
+  </div></section>
+  <Footer />
+</main>
+<section class="gallery-view" id="gallery-view" hidden aria-label="Галерея"><div class="gallery-head"><div><p class="overline" id="gallery-kicker" data-i18n="galleryKicker">ПРЕДМЕТНАЯ РЕТУШЬ</p><h1 id="gallery-title">Галерея</h1><p id="gallery-desc"></p><div class="gallery-head__tags" id="gallery-tags" aria-label="Форматы работ"></div></div><a href="#portfolio" id="gallery-back" class="gallery-head__back" data-i18n="galleryBack">← КО ВСЕМ КАТЕГОРИЯМ</a></div><div class="gallery-grid" id="gallery-grid"></div><div class="gallery-endnote" id="gallery-endnote" hidden><p data-i18n="serviceGalleryDisclaimer">Пока здесь демонстрационные изображения. После загрузки ваших работ заменим их настоящими проектами и видео.</p><a href="#contact" data-i18n="galleryInquiry">ОБСУДИТЬ ПРОЕКТ ↗</a></div><Footer /></section>
+<div class="lightbox" id="lightbox" role="dialog" aria-label="Увеличенное изображение" aria-modal="true" hidden><button id="lightbox-close" class="lightbox__close" aria-label="Закрыть">×</button><img id="lightbox-img" alt="Крупное изображение товара"><span id="lightbox-caption" class="lightbox__caption">Демонстрационное изображение</span></div>
