@@ -105,7 +105,9 @@
       "errorEmail": "Проверьте адрес электронной почты.",
       "errorPhone": "Проверьте номер телефона.",
       "prepared": "Заявка подготовлена. Отправка с сайта пока не подключена — скопируйте текст и отправьте после подключения контактов.",
-      "copied": "Текст скопирован."
+      "copied": "Текст скопирован.",
+      "cat_jewelry": "Ювелирные изделия",
+      "cat_jewelry_desc": "Металл, камни и детали"
     },
     "EN": {
       "menu": "MENU",
@@ -212,7 +214,9 @@
       "errorEmail": "Please check the email address.",
       "errorPhone": "Please check the phone number.",
       "prepared": "Message prepared. Delivery is not connected yet — copy the request until a contact endpoint is added.",
-      "copied": "Message copied."
+      "copied": "Message copied.",
+      "cat_jewelry": "Jewelry",
+      "cat_jewelry_desc": "Metals, gemstones and detail"
     },
     "TH": {
       "menu": "เมนู",
@@ -319,76 +323,327 @@
       "errorEmail": "กรุณาตรวจสอบอีเมล",
       "errorPhone": "กรุณาตรวจสอบหมายเลขโทรศัพท์",
       "prepared": "เตรียมข้อความแล้ว ยังไม่ได้เชื่อมต่อระบบส่ง กรุณาคัดลอกข้อความ",
-      "copied": "คัดลอกเรียบร้อย"
+      "copied": "คัดลอกเรียบร้อย",
+      "cat_jewelry": "เครื่องประดับ",
+      "cat_jewelry_desc": "โลหะ อัญมณี และรายละเอียด"
     }
   },
   "galleries": {
     "category/lighting": [
       {
-        "src": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=1400&q=85",
+        "src": "/uploads/lighting/LE01.webp.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 1",
-          "EN": "Demo image 1",
-          "TH": "ภาพตัวอย่าง 1"
+          "RU": "Люстры и светильники — LE01",
+          "EN": "Lighting & Chandeliers — LE01",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE01"
         },
-        "featured": true,
-        "width": 1600,
-        "height": 1000
+        "featured": true
       },
       {
-        "src": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=1400&q=85",
+        "src": "/uploads/lighting/LE02.webp.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 2",
-          "EN": "Demo image 2",
-          "TH": "ภาพตัวอย่าง 2"
+          "RU": "Люстры и светильники — LE02",
+          "EN": "Lighting & Chandeliers — LE02",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE02"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1500
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1400&q=85",
+        "src": "/uploads/lighting/LE03.webp.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 3",
-          "EN": "Demo image 3",
-          "TH": "ภาพตัวอย่าง 3"
+          "RU": "Люстры и светильники — LE03",
+          "EN": "Lighting & Chandeliers — LE03",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE03"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1100
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1542728928-1413d1894ed1?w=1400&q=85",
+        "src": "/uploads/lighting/LE04.webp.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 4",
-          "EN": "Demo image 4",
-          "TH": "ภาพตัวอย่าง 4"
+          "RU": "Люстры и светильники — LE04",
+          "EN": "Lighting & Chandeliers — LE04",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE04"
         },
-        "featured": false,
-        "width": 1600,
-        "height": 1000
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=1400&q=85",
+        "src": "/uploads/lighting/LE05.webp.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 5",
-          "EN": "Demo image 5",
-          "TH": "ภาพตัวอย่าง 5"
+          "RU": "Люстры и светильники — LE05",
+          "EN": "Lighting & Chandeliers — LE05",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE05"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1500
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1400&q=85",
+        "src": "/uploads/lighting/LE06.webp.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 6",
-          "EN": "Demo image 6",
-          "TH": "ภาพตัวอย่าง 6"
+          "RU": "Люстры и светильники — LE06",
+          "EN": "Lighting & Chandeliers — LE06",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE06"
         },
-        "featured": true,
-        "width": 1100,
-        "height": 1100
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE07.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE07",
+          "EN": "Lighting & Chandeliers — LE07",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE07"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE08.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE08",
+          "EN": "Lighting & Chandeliers — LE08",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE08"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE09.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE09",
+          "EN": "Lighting & Chandeliers — LE09",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE09"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE10.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE10",
+          "EN": "Lighting & Chandeliers — LE10",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE10"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE11.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE11",
+          "EN": "Lighting & Chandeliers — LE11",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE11"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE12.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE12",
+          "EN": "Lighting & Chandeliers — LE12",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE12"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE13.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE13",
+          "EN": "Lighting & Chandeliers — LE13",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE13"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE14.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE14",
+          "EN": "Lighting & Chandeliers — LE14",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE14"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE15.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE15",
+          "EN": "Lighting & Chandeliers — LE15",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE15"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE16.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE16",
+          "EN": "Lighting & Chandeliers — LE16",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE16"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE17.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE17",
+          "EN": "Lighting & Chandeliers — LE17",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE17"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE18.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE18",
+          "EN": "Lighting & Chandeliers — LE18",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE18"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE19.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE19",
+          "EN": "Lighting & Chandeliers — LE19",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE19"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE20.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE20",
+          "EN": "Lighting & Chandeliers — LE20",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE20"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE21.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE21",
+          "EN": "Lighting & Chandeliers — LE21",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE21"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE22.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE22",
+          "EN": "Lighting & Chandeliers — LE22",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE22"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE23.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE23",
+          "EN": "Lighting & Chandeliers — LE23",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE23"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE24.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE24",
+          "EN": "Lighting & Chandeliers — LE24",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE24"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE25.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE25",
+          "EN": "Lighting & Chandeliers — LE25",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE25"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE26.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE26",
+          "EN": "Lighting & Chandeliers — LE26",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE26"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE27.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE27",
+          "EN": "Lighting & Chandeliers — LE27",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE27"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE28.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE28",
+          "EN": "Lighting & Chandeliers — LE28",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE28"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE29.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE29",
+          "EN": "Lighting & Chandeliers — LE29",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE29"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE30.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE30",
+          "EN": "Lighting & Chandeliers — LE30",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE30"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE31.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE31",
+          "EN": "Lighting & Chandeliers — LE31",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE31"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE32.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE32",
+          "EN": "Lighting & Chandeliers — LE32",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE32"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE33.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE33",
+          "EN": "Lighting & Chandeliers — LE33",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE33"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE34.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE34",
+          "EN": "Lighting & Chandeliers — LE34",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE34"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/lighting/LE35.webp.webp",
+        "alt": {
+          "RU": "Люстры и светильники — LE35",
+          "EN": "Lighting & Chandeliers — LE35",
+          "TH": "โคมไฟและแชนเดอเลียร์ — LE35"
+        },
+        "featured": false
       }
     ],
     "category/fashion": [
@@ -598,70 +853,103 @@
     ],
     "category/electronics": [
       {
-        "src": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1400&q=85",
+        "src": "/uploads/household-appliances/HA01.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 1",
-          "EN": "Demo image 1",
-          "TH": "ภาพตัวอย่าง 1"
+          "RU": "Бытовая техника — HA01",
+          "EN": "Household appliances — HA01",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA01"
         },
-        "featured": true,
-        "width": 1600,
-        "height": 1000
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1400&q=85",
+        "src": "/uploads/household-appliances/HA01_01.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 2",
-          "EN": "Demo image 2",
-          "TH": "ภาพตัวอย่าง 2"
+          "RU": "Бытовая техника — HA01_01",
+          "EN": "Household appliances — HA01_01",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA01_01"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1500
+        "featured": true
       },
       {
-        "src": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=1400&q=85",
+        "src": "/uploads/household-appliances/HA02.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 3",
-          "EN": "Demo image 3",
-          "TH": "ภาพตัวอย่าง 3"
+          "RU": "Бытовая техника — HA02",
+          "EN": "Household appliances — HA02",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA02"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1100
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1512499617640-c74ae3a79d37?w=1400&q=85",
+        "src": "/uploads/household-appliances/HA02_01.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 4",
-          "EN": "Demo image 4",
-          "TH": "ภาพตัวอย่าง 4"
+          "RU": "Бытовая техника — HA02_01",
+          "EN": "Household appliances — HA02_01",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA02_01"
         },
-        "featured": false,
-        "width": 1600,
-        "height": 1000
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=1400&q=85",
+        "src": "/uploads/household-appliances/HA03.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 5",
-          "EN": "Demo image 5",
-          "TH": "ภาพตัวอย่าง 5"
+          "RU": "Бытовая техника — HA03",
+          "EN": "Household appliances — HA03",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA03"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1500
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=1400&q=85",
+        "src": "/uploads/household-appliances/HA04.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 6",
-          "EN": "Demo image 6",
-          "TH": "ภาพตัวอย่าง 6"
+          "RU": "Бытовая техника — HA04",
+          "EN": "Household appliances — HA04",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA04"
         },
-        "featured": true,
-        "width": 1100,
-        "height": 1100
+        "featured": false
+      },
+      {
+        "src": "/uploads/household-appliances/HA05.webp",
+        "alt": {
+          "RU": "Бытовая техника — HA05",
+          "EN": "Household appliances — HA05",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA05"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/household-appliances/HA05_01.webp",
+        "alt": {
+          "RU": "Бытовая техника — HA05_01",
+          "EN": "Household appliances — HA05_01",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA05_01"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/household-appliances/HA06.webp",
+        "alt": {
+          "RU": "Бытовая техника — HA06",
+          "EN": "Household appliances — HA06",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA06"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/household-appliances/HA07.webp",
+        "alt": {
+          "RU": "Бытовая техника — HA07",
+          "EN": "Household appliances — HA07",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA07"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/household-appliances/HA08.webp",
+        "alt": {
+          "RU": "Бытовая техника — HA08",
+          "EN": "Household appliances — HA08",
+          "TH": "เครื่องใช้ไฟฟ้าภายในบ้าน — HA08"
+        },
+        "featured": false
       }
     ],
     "category/home": [
@@ -1139,13 +1427,87 @@
         "width": 1100,
         "height": 1100
       }
+    ],
+    "category/jewelry": [
+      {
+        "src": "/uploads/jewelry/J01.webp",
+        "alt": {
+          "RU": "Ювелирные изделия — J01",
+          "EN": "Jewelry — J01",
+          "TH": "เครื่องประดับ — J01"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/jewelry/J01_01.webp",
+        "alt": {
+          "RU": "Ювелирные изделия — J01_01",
+          "EN": "Jewelry — J01_01",
+          "TH": "เครื่องประดับ — J01_01"
+        },
+        "featured": true
+      },
+      {
+        "src": "/uploads/jewelry/J02.webp",
+        "alt": {
+          "RU": "Ювелирные изделия — J02",
+          "EN": "Jewelry — J02",
+          "TH": "เครื่องประดับ — J02"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/jewelry/J02_01.webp",
+        "alt": {
+          "RU": "Ювелирные изделия — J02_01",
+          "EN": "Jewelry — J02_01",
+          "TH": "เครื่องประดับ — J02_01"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/jewelry/J03.webp",
+        "alt": {
+          "RU": "Ювелирные изделия — J03",
+          "EN": "Jewelry — J03",
+          "TH": "เครื่องประดับ — J03"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/jewelry/J03_01.webp",
+        "alt": {
+          "RU": "Ювелирные изделия — J03_01",
+          "EN": "Jewelry — J03_01",
+          "TH": "เครื่องประดับ — J03_01"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/jewelry/J04.webp",
+        "alt": {
+          "RU": "Ювелирные изделия — J04",
+          "EN": "Jewelry — J04",
+          "TH": "เครื่องประดับ — J04"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/jewelry/J04_01.webp",
+        "alt": {
+          "RU": "Ювелирные изделия — J04_01",
+          "EN": "Jewelry — J04_01",
+          "TH": "เครื่องประดับ — J04_01"
+        },
+        "featured": false
+      }
     ]
   },
   "covers": {
-    "category/lighting": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=1600&q=82",
+    "category/lighting": "/uploads/lighting/LE01.webp.webp",
     "category/fashion": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1600&q=82",
     "category/beauty": "/uploads/cosmetics/C01_0.webp",
-    "category/electronics": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1600&q=82",
+    "category/electronics": "/uploads/household-appliances/HA01_01.webp",
     "category/home": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1600&q=82",
     "category/industrial": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=1600&q=82",
     "service/video": "https://images.unsplash.com/photo-1485846234645-a62644f84728?w=1000&q=78",
@@ -1153,6 +1515,7 @@
     "service/infographics": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=1000&q=78",
     "service/photoGeneration": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=1300&q=78",
     "service/layout": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=1300&q=78",
-    "hero": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=2000&q=86"
+    "hero": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=2000&q=86",
+    "category/jewelry": "/uploads/jewelry/J01_01.webp"
   }
 }
