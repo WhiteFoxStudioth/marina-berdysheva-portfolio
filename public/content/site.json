@@ -461,70 +461,139 @@
     ],
     "category/beauty": [
       {
-        "src": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=1400&q=85",
+        "src": "/uploads/cosmetics/C01_0.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 1",
-          "EN": "Demo image 1",
-          "TH": "ภาพตัวอย่าง 1"
+          "RU": "Косметика и БАДы — работа 1",
+          "EN": "Beauty & Wellness — work 1",
+          "TH": "ความงามและสุขภาพ — ผลงาน 1"
         },
-        "featured": true,
-        "width": 1600,
-        "height": 1000
+        "featured": true
       },
       {
-        "src": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=1400&q=85",
+        "src": "/uploads/cosmetics/C01_01.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 2",
-          "EN": "Demo image 2",
-          "TH": "ภาพตัวอย่าง 2"
+          "RU": "Косметика и БАДы — работа 2",
+          "EN": "Beauty & Wellness — work 2",
+          "TH": "ความงามและสุขภาพ — ผลงาน 2"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1500
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1570172619644-dfd03ed5d881?w=1400&q=85",
+        "src": "/uploads/cosmetics/C01.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 3",
-          "EN": "Demo image 3",
-          "TH": "ภาพตัวอย่าง 3"
+          "RU": "Косметика и БАДы — работа 3",
+          "EN": "Beauty & Wellness — work 3",
+          "TH": "ความงามและสุขภาพ — ผลงาน 3"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1100
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=1400&q=85",
+        "src": "/uploads/cosmetics/C02_01.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 4",
-          "EN": "Demo image 4",
-          "TH": "ภาพตัวอย่าง 4"
+          "RU": "Косметика и БАДы — работа 4",
+          "EN": "Beauty & Wellness — work 4",
+          "TH": "ความงามและสุขภาพ — ผลงาน 4"
         },
-        "featured": false,
-        "width": 1600,
-        "height": 1000
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1620916566398-39f1143ab7be?w=1400&q=85",
+        "src": "/uploads/cosmetics/C02_02.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 5",
-          "EN": "Demo image 5",
-          "TH": "ภาพตัวอย่าง 5"
+          "RU": "Косметика и БАДы — работа 5",
+          "EN": "Beauty & Wellness — work 5",
+          "TH": "ความงามและสุขภาพ — ผลงาน 5"
         },
-        "featured": false,
-        "width": 1100,
-        "height": 1500
+        "featured": false
       },
       {
-        "src": "https://images.unsplash.com/photo-1611930022073-b7a4ba5fcccd?w=1400&q=85",
+        "src": "/uploads/cosmetics/C02.webp",
         "alt": {
-          "RU": "Демонстрационное изображение 6",
-          "EN": "Demo image 6",
-          "TH": "ภาพตัวอย่าง 6"
+          "RU": "Косметика и БАДы — работа 6",
+          "EN": "Beauty & Wellness — work 6",
+          "TH": "ความงามและสุขภาพ — ผลงาน 6"
         },
-        "featured": true,
-        "width": 1100,
-        "height": 1100
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C03_01.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 7",
+          "EN": "Beauty & Wellness — work 7",
+          "TH": "ความงามและสุขภาพ — ผลงาน 7"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C03.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 8",
+          "EN": "Beauty & Wellness — work 8",
+          "TH": "ความงามและสุขภาพ — ผลงาน 8"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C04_01.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 9",
+          "EN": "Beauty & Wellness — work 9",
+          "TH": "ความงามและสุขภาพ — ผลงาน 9"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C04.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 10",
+          "EN": "Beauty & Wellness — work 10",
+          "TH": "ความงามและสุขภาพ — ผลงาน 10"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C05.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 11",
+          "EN": "Beauty & Wellness — work 11",
+          "TH": "ความงามและสุขภาพ — ผลงาน 11"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C06.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 12",
+          "EN": "Beauty & Wellness — work 12",
+          "TH": "ความงามและสุขภาพ — ผลงาน 12"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C07.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 13",
+          "EN": "Beauty & Wellness — work 13",
+          "TH": "ความงามและสุขภาพ — ผลงาน 13"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C08.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 14",
+          "EN": "Beauty & Wellness — work 14",
+          "TH": "ความงามและสุขภาพ — ผลงาน 14"
+        },
+        "featured": false
+      },
+      {
+        "src": "/uploads/cosmetics/C09.webp",
+        "alt": {
+          "RU": "Косметика и БАДы — работа 15",
+          "EN": "Beauty & Wellness — work 15",
+          "TH": "ความงามและสุขภาพ — ผลงาน 15"
+        },
+        "featured": false
       }
     ],
     "category/electronics": [
@@ -1075,7 +1144,7 @@
   "covers": {
     "category/lighting": "https://images.unsplash.com/photo-1540932239986-30128078f3c5?w=1600&q=82",
     "category/fashion": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1600&q=82",
-    "category/beauty": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=1600&q=82",
+    "category/beauty": "/uploads/cosmetics/C01_0.webp",
     "category/electronics": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=1600&q=82",
     "category/home": "https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?w=1600&q=82",
     "category/industrial": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=1600&q=82",
