@@ -193,6 +193,8 @@
     ));
     $('#gallery-grid').innerHTML=items.join('');
     $('#gallery-grid').classList.toggle('is-service',isService);
+    // Keep sequential slide portfolios in their exact authored order.
+    $('#gallery-grid').classList.toggle('is-sequential',type==='category'&&id==='lighting');
     if(Array.isArray(custom) && custom.length){
       for(const [i,entry] of custom.entries()){
         const btn=$(`#gallery-grid [data-edit-index="${i}"]`);

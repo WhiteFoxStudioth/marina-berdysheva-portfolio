@@ -191,3 +191,6 @@ button:not(.send-button):not(.copy-button):hover { color:var(--accent); }
 
 .publication-note{padding:16px 24px;margin:0;text-align:center;background:#fff2ef;font-size:14px;line-height:1.5}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+/* Preserve numeric ordering for completed slide presentations. */
+.gallery-grid.is-sequential{grid-auto-flow:row}
