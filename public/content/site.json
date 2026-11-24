@@ -461,25 +461,25 @@
     ],
     "category/beauty": [
       {
-        "src": "/uploads/cosmetics/C01_0.webp",
+        "src": "/uploads/cosmetics/C01.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 1",
           "EN": "Beauty & Wellness — work 1",
           "TH": "ความงามและสุขภาพ — ผลงาน 1"
         },
-        "featured": true
+        "featured": false
       },
       {
-        "src": "/uploads/cosmetics/C01_01.webp",
+        "src": "/uploads/cosmetics/C01_0.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 2",
           "EN": "Beauty & Wellness — work 2",
           "TH": "ความงามและสุขภาพ — ผลงาน 2"
         },
-        "featured": false
+        "featured": true
       },
       {
-        "src": "/uploads/cosmetics/C01.webp",
+        "src": "/uploads/cosmetics/C01_01.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 3",
           "EN": "Beauty & Wellness — work 3",
@@ -488,7 +488,7 @@
         "featured": false
       },
       {
-        "src": "/uploads/cosmetics/C02_01.webp",
+        "src": "/uploads/cosmetics/C02.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 4",
           "EN": "Beauty & Wellness — work 4",
@@ -497,7 +497,7 @@
         "featured": false
       },
       {
-        "src": "/uploads/cosmetics/C02_02.webp",
+        "src": "/uploads/cosmetics/C02_01.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 5",
           "EN": "Beauty & Wellness — work 5",
@@ -506,7 +506,7 @@
         "featured": false
       },
       {
-        "src": "/uploads/cosmetics/C02.webp",
+        "src": "/uploads/cosmetics/C02_02.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 6",
           "EN": "Beauty & Wellness — work 6",
@@ -515,7 +515,7 @@
         "featured": false
       },
       {
-        "src": "/uploads/cosmetics/C03_01.webp",
+        "src": "/uploads/cosmetics/C03.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 7",
           "EN": "Beauty & Wellness — work 7",
@@ -524,7 +524,7 @@
         "featured": false
       },
       {
-        "src": "/uploads/cosmetics/C03.webp",
+        "src": "/uploads/cosmetics/C03_01.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 8",
           "EN": "Beauty & Wellness — work 8",
@@ -533,7 +533,7 @@
         "featured": false
       },
       {
-        "src": "/uploads/cosmetics/C04_01.webp",
+        "src": "/uploads/cosmetics/C04.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 9",
           "EN": "Beauty & Wellness — work 9",
@@ -542,7 +542,7 @@
         "featured": false
       },
       {
-        "src": "/uploads/cosmetics/C04.webp",
+        "src": "/uploads/cosmetics/C04_01.webp",
         "alt": {
           "RU": "Косметика и БАДы — работа 10",
           "EN": "Beauty & Wellness — work 10",
